@@ -67,5 +67,6 @@ For maintainership & to submit patches refer [**HERE**](https://github.com/DotOS
 <img src="https://raw.githubusercontent.com/samgrande/manifest-1/dot-p/Untitled-4.png" > 
 </p>
 
-
+Repo Mirror:https://mirrors.tuna.tsinghua.edu.cn/git/git-repo/
+export REPO_URL='https://mirrors.tuna.tsinghua.edu.cn/git/git-repo/'
 
