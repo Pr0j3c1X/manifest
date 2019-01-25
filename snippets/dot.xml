@@ -3,6 +3,7 @@
   
   <default revision="..."
            remote="lineage"
+           review="review.lineageos.org" />
 
   <remote  name="los
            fetch="https://mirrors.tuna.tsinghua.edu.cn/git/lineageOS/"
